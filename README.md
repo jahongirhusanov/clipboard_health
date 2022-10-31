@@ -2,7 +2,10 @@
 
 [Click here to read the assignment](./docs/assignment.md)
 
-## vanilla
+## Dependencies
+
+- TestNG
+- Selenium
 
 This is a base starter kit framework that you can use to build your tests for the above assignment.
 However, if you are more comfortable with your own tool kit, feel free to use that as well!
